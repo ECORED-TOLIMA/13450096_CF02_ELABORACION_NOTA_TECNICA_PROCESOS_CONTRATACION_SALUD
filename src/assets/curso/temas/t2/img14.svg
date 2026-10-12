@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="129" height="129" viewBox="0 0 129 129">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#33dce1"/>
+      <stop offset="1" stop-color="#14585a"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_461211" data-name="Rectangle 461211" width="23.381" height="23.381" fill="#33dce1"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1036211" data-name="Path 1036211" d="M146.593,25.824v7.171h7.171v9.039h-7.171v7.171h-9.039V42.034h-7.171V32.995h7.171V25.824Z" transform="translate(-130.383 -25.824)" fill="#33dce1"/>
+    </clipPath>
+    <filter id="Path_1036208" x="0" y="0" width="129" height="129" filterUnits="userSpaceOnUse">
+      <feOffset dx="5" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5.5" result="blur"/>
+      <feFlood flood-color="#0d7275" flood-opacity="0.388"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-3">
+      <path id="Path_1036209" data-name="Path 1036209" d="M451.576,480.244a33.92,33.92,0,1,0,31.379-20.967,33.95,33.95,0,0,0-31.379,20.967" transform="translate(-448.982 -459.277)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_461211-2" data-name="Rectangle 461211" width="12.588" height="12.588" fill="#33dce1"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Path_1036211-2" data-name="Path 1036211" d="M139.11,25.824v3.861h3.861v4.867H139.11v3.861h-4.866V34.551h-3.861V29.685h3.861V25.824Z" transform="translate(-130.383 -25.824)" fill="#33dce1"/>
+    </clipPath>
+  </defs>
+  <g id="img14" transform="translate(-1246.168 -5372.5)">
+    <g id="Group_1191498" data-name="Group 1191498" transform="translate(1257.668 5386)" opacity="0.7">
+      <g id="Group_1191497" data-name="Group 1191497" transform="translate(0 0)">
+        <g id="Group_1191496" data-name="Group 1191496" clip-path="url(#clip-path)">
+          <g id="Group_1191495" data-name="Group 1191495">
+            <g id="Group_1191494" data-name="Group 1191494" clip-path="url(#clip-path-2)">
+              <rect id="Rectangle_461210" data-name="Rectangle 461210" width="23.381" height="23.381" transform="translate(0 0)" fill="#33dce1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1191602" data-name="Group 1191602" transform="translate(1257.669 5386)">
+      <g transform="matrix(1, 0, 0, 1, -11.5, -13.5)" filter="url(#Path_1036208)">
+        <path id="Path_1036208-2" data-name="Path 1036208" d="M519.409,481.717a48,48,0,1,1-48-48,48,48,0,0,1,48,48" transform="translate(-411.91 -420.22)" fill="#fff"/>
+      </g>
+      <g id="Group_1191483" data-name="Group 1191483" transform="translate(13.591 13.583)" clip-path="url(#clip-path-3)">
+        <rect id="Rectangle_461207" data-name="Rectangle 461207" width="77.081" height="72.5" transform="translate(-4.582 -0.001)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_1191603" data-name="Group 1191603" transform="translate(1257.668 5412.982)" opacity="0.5">
+      <g id="Group_1191497-2" data-name="Group 1191497" transform="translate(0 0)">
+        <g id="Group_1191496-2" data-name="Group 1191496" clip-path="url(#clip-path-4)">
+          <g id="Group_1191495-2" data-name="Group 1191495">
+            <g id="Group_1191494-2" data-name="Group 1191494" clip-path="url(#clip-path-5)">
+              <rect id="Rectangle_461210-2" data-name="Rectangle 461210" width="12.588" height="12.588" transform="translate(0 0)" fill="#33dce1"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_1199100" data-name="Group 1199100" transform="translate(1285.728 5413.764)">
+      <path id="Path_1038930" data-name="Path 1038930" d="M.008,52.808l39.86.01.014-2.328-3.489,0,0-22.275H28.291l0,22.269-3.115.01-.009-11.4-8.1.007,0,11.381-3.116.009V41.306h-8.1l0,9.185-3.5,0v-34.1L0,16.388Z" transform="translate(0 -14.346)" fill="#fff"/>
+      <path id="Path_1038931" data-name="Path 1038931" d="M60.905,77.64,46.125,86.231,44.96,84.206,59.742,75.6l-3.405-.934.6-2.257,7.3,1.929-1.934,7.3-2.254-.6Z" transform="translate(-39.357 -63.384)" fill="#fff"/>
+      <path id="Path_1038932" data-name="Path 1038932" d="M219.122,0l-2.314,2.874-3.426,1.3,2.005,3.043.189,3.7,3.658-.955,3.43.963.163-3.634,2.044-3.121L221.452,2.88Z" transform="translate(-186.787)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
