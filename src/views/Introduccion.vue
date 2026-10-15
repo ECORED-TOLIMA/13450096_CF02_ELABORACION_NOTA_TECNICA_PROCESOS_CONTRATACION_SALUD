@@ -27,8 +27,7 @@
     p.mb-4 Para complementar la comprensión de los temas abordados, se recomienda acceder al siguiente video:
     figure
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+        iframe(width="1331" height="749" src="https://www.youtube.com/embed/oi8ak12fGxc" title="Development and Validation of the Technical Note" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
 </template>
 
 <script>

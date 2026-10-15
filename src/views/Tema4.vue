@@ -58,9 +58,8 @@
                 img(src="@/assets/curso/temas/t4/img5.svg" alt="")
             .col-md-8.col-lg-8
               .titulo-pastilla.mb-4
-                span.titulo-pastilla__icono
-                  i.fas.fa-check
-                h3.mb-0 Ejemplo
+                img(src="@/assets/curso/icon.svg" alt="")
+                span Ejemplo
               p Si la nota técnica proyectó 3.000 atenciones y durante la ejecución se registraron 3.300, la desviación absoluta sería:
               .cajon.color-secundario.p-4.mb-4
                 p.text-center.fw-bold.mb-0 3.300 - 3.000 = 300
