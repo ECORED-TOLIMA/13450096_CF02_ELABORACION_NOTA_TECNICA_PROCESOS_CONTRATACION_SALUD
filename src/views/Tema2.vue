@@ -148,8 +148,8 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 En las modalidades de pago prospectivas, el reconocimiento económico se establece previamente a la prestación de los servicios, con base en una proyección de las necesidades de atención y de los recursos requeridos. En este grupo pueden encontrarse mecanismos como la capitación, los pagos globales prospectivos y los paquetes o conjuntos integrales de atención, según las condiciones acordadas.
 
-    p.mb-4 En las modalidades retrospectivas, el reconocimiento económico se determina a partir de los servicios efectivamente prestados y soportados durante el periodo correspondiente. El pago por servicio constituye un ejemplo de esta modalidad.
-
+    p En las modalidades retrospectivas, el reconocimiento económico se determina a partir de los servicios efectivamente prestados y soportados durante el periodo correspondiente. El pago por servicio constituye un ejemplo de esta modalidad.
+    p.mb-4 A continuación, se presentan las principales características de la nota técnica según la modalidad de contratación:
     .titulo-sexto.color-acento-contenido
       h5 Tabla 3.
       span Características de la nota técnica según la modalidad de contratación
@@ -268,7 +268,8 @@
         figure
           img(src="@/assets/curso/temas/t2/img20.png" alt="")
 
-    p.mb-4 Como producto del ejercicio, se debe obtener una matriz consolidada de la nota técnica, en la que cada servicio o tecnología pueda relacionarse con su código, población susceptible, frecuencia, cantidad proyectada, valor unitario y valor total. Esta organización facilita posteriormente los procesos de revisión y validación de la nota técnica.
+    p Como producto del ejercicio, se debe obtener una matriz consolidada de la nota técnica, en la que cada servicio o tecnología pueda relacionarse con su código, población susceptible, frecuencia, cantidad proyectada, valor unitario y valor total. Esta organización facilita posteriormente los procesos de revisión y validación de la nota técnica.
+    p.mb-4 A continuación, se presenta un ejemplo de la estructura que puede utilizarse para organizar esta información:
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 4.

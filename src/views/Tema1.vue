@@ -281,7 +281,8 @@
       .bloque-texto-g__texto.p-4
         p.mb-0 El riesgo primario se relaciona con la ocurrencia de condiciones o eventos de salud en la población que pueden requerir atención. Su análisis considera las características de la población, sus necesidades y los eventos que pueden generar demanda de servicios y tecnologías. Por ello, guarda relación con la caracterización poblacional, los parámetros epidemiológicos y la frecuencia esperada de utilización.
 
-    p.mb-4 El riesgo técnico se relaciona con la variabilidad que puede presentarse en la utilización de servicios y recursos necesarios para atender a una población. Esta variabilidad puede estar asociada con factores como la complejidad de las atenciones, las condiciones de salud, la aparición de complicaciones y las diferencias entre la utilización esperada y la observada. En la nota técnica, su consideración contribuye al análisis de las cantidades, costos y proyecciones.
+    p El riesgo técnico se relaciona con la variabilidad que puede presentarse en la utilización de servicios y recursos necesarios para atender a una población. Esta variabilidad puede estar asociada con factores como la complejidad de las atenciones, las condiciones de salud, la aparición de complicaciones y las diferencias entre la utilización esperada y la observada. En la nota técnica, su consideración contribuye al análisis de las cantidades, costos y proyecciones. 
+    p.mb-4 Para comprender las particularidades de ambos tipos de riesgo, se presentan sus principales diferencias a continuación:
 
     .titulo-sexto.color-acento-contenido
       h5 Tabla 1.
