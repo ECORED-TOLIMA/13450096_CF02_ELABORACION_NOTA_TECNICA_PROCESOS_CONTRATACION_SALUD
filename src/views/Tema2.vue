@@ -17,7 +17,7 @@
         .cajon.color-primario.p-4
           p.mb-0 Para su construcción, es necesario partir de información previamente organizada y validada, de manera que los datos utilizados permitan establecer relaciones entre la población objeto, los servicios requeridos, las cantidades proyectadas y los valores económicos. La información histórica de prestación de servicios constituye uno de los insumos para analizar el comportamiento de la utilización y establecer las proyecciones correspondientes.
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.mb-0
       .col-md-2.col-lg-1.mb-3.mb-md-0
         img.tema2-icono.d-none.d-lg-block(src="@/assets/curso/temas/t2/img2.svg" alt="")
       .col-md-10.col-lg-7
@@ -187,10 +187,10 @@
           img(src="@/assets/curso/temas/t2/img8.png" alt="")
       .col-lg-7
         p.mb-4 La integración y consolidación de la nota técnica consiste en articular la información recopilada, analizada y calculada en los apartados anteriores, de manera que exista correspondencia entre la población objeto, los servicios y tecnologías, las frecuencias de uso, las cantidades proyectadas, los costos, las tarifas y los riesgos. Esta integración permite obtener una proyección coherente de los recursos requeridos para la atención de la población.
-        .row.align-items-center
-          .col-md-2.mb-3.mb-md-0
+        .row
+          .col-lg-2.mb-3.mb-md-0
             img.tema2-icono.d-none.d-lg-block(src="@/assets/curso/temas/t2/img9.svg" alt="")
-          .col-md-10
+          .col-lg-10.p-0
             p.mb-0 Para consolidar la información, es necesario verificar que los datos utilizados correspondan al mismo periodo de análisis y que los servicios y tecnologías estén correctamente identificados y codificados. También se deben relacionar las frecuencias calculadas con la población susceptible y con los valores unitarios definidos, de manera que sea posible establecer los valores proyectados.
 
     p.mb-4 El proceso puede organizarse mediante la siguiente secuencia:
@@ -237,7 +237,7 @@
     #t_2_5.titulo-segundo.color-acento-contenido
       h2 2.5 Ejercicio de construcción de una nota técnica
 
-    p.mb-4 Para integrar los conocimientos desarrollados en este componente, se propone un ejercicio práctico de construcción de una nota técnica a partir de información simulada. El ejercicio permite organizar la población, identificar los servicios y tecnologías, analizar las frecuencias de uso, establecer costos y tarifas y consolidar los resultados en una estructura coherente. Este tipo de ejercicio se encuentra contemplado en el material de referencia como una actividad práctica para aplicar los elementos necesarios para la construcción de la nota técnica.
+    p.mb-4 Para integrar los conocimientos desarrollados en este componente, se propone un ejercicio práctico de construcción de una nota técnica a partir de información simulada. El ejercicio permite organizar la población, identificar los servicios y tecnologías, analizar las frecuencias de uso, establecer costos y tarifas y consolidar los resultados en una estructura coherente. 
 
     .tema2-panel.mb-4
       .row.g-0.align-items-stretch

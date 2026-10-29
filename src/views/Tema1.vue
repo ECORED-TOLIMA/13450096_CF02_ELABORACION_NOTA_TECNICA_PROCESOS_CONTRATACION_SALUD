@@ -7,7 +7,7 @@
         span 1
       h1 Estructura y elementos previos de la nota técnica
 
-    .row.align-items-center.mb-4
+    .row.mb-4
       .col-lg-5.mb-4.mb-lg-0
         figure
           img(src="@/assets/curso/temas/t1/img1.png" alt="")
@@ -15,9 +15,9 @@
         .row.align-items-start
           .col-md-2.mb-3.mb-md-0
             img.tema1-icono.d-none.d-lg-block(src="@/assets/curso/temas/t1/img2.svg" alt="")
-          .col-md-10
+          .col-md-10.p-0
             p La elaboración de una nota técnica requiere organizar previamente la información que sustenta la proyección de los servicios y tecnologías en salud. Para ello, se consideran elementos relacionados con la identificación de los servicios y procedimientos, la población objeto, las frecuencias de uso, los costos, las tarifas y los riesgos asociados a la atención. Estos elementos permiten consolidar una base técnica para la construcción de la nota y facilitan su posterior revisión y validación.
-        .cajon.color-primario.p-4
+        .cajon.color-primario.p-3
           p.mb-0 Antes de integrar la información en el documento, es necesario verificar que los datos utilizados sean pertinentes, consistentes y se encuentren relacionados con las condiciones del acuerdo de voluntades. La información histórica de prestación de servicios, los códigos de los servicios y tecnologías, las frecuencias de uso y los valores económicos constituyen insumos para realizar los cálculos y establecer las proyecciones correspondientes.
 
     p.mb-0 En este proceso también se consideran los riesgos primario y técnico, debido a su relación con las condiciones de salud de la población y con la variabilidad en la utilización de servicios y recursos. De esta manera, los elementos previos permiten estructurar una nota técnica con información organizada y articulada con las características de la población, los servicios requeridos y las condiciones económicas de la contratación.
@@ -119,7 +119,7 @@
 
     .row.justify-content-center.align-items-center.mb-4
       .col-lg-6
-        .row.align-items-center.mb-3
+        .row.mb-3
           .col-md-2.mb-3.mb-md-0
             img.tema1-icono.d-none.d-md-block(src="@/assets/curso/temas/t1/img16.svg" alt="")
           .col-md-10

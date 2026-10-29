@@ -12,10 +12,10 @@
         figure
           img(src="@/assets/curso/temas/t3/img1.png" alt="")
       .col-lg-7
-        .row.align-items-center.mb-4
-          .col-md-2.mb-3.mb-md-0
+        .row.mb-4
+          .col-lg-2.mb-3.mb-md-0
             img.tema3-icono.d-none.d-lg-block(src="@/assets/curso/temas/t3/img2.svg" alt="")
-          .col-md-10
+          .col-lg-10.p-0
             p.mb-0 La revisión y validación de la nota técnica permite comprobar la coherencia, consistencia y suficiencia de la información utilizada para sustentar las proyecciones de servicios y tecnologías en salud. Este proceso parte de la información consolidada y busca identificar posibles inconsistencias en aspectos como la población, los servicios y procedimientos, las frecuencias de uso, los costos, las tarifas y los elementos relacionados con la gestión del riesgo.
         .cajon.color-secundario.p-4
           p.mb-0 La validación comprende tres perspectivas complementarias: técnica, jurídica y financiera. La validación técnica se orienta a comprobar la correspondencia de los datos y cálculos con las condiciones de prestación de los servicios; la jurídica verifica la relación de la nota técnica con las disposiciones aplicables y las condiciones del acuerdo de voluntades; y la financiera analiza la consistencia de los valores proyectados y su sostenibilidad.
@@ -34,7 +34,7 @@
     #t_3_1.titulo-segundo.color-acento-contenido
       h2 3.1 Validación técnica
 
-    .row.align-items-center.mb-4
+    .row.mb-4
       .col-md-2.col-lg-1.mb-3.mb-md-0
         img.tema3-icono.d-none.d-lg-block(src="@/assets/curso/temas/t3/img4.svg" alt="")
       .col-md-10.col-lg-11
@@ -210,7 +210,7 @@
             td Tarifas y costos
             td Financiera
             td Diferencia en el valor utilizado.
-            td Verificar la fuente y recalcular
+            td Verificar la fuente y recalcular.
           tr
             td Valor proyectado
             td Financiera

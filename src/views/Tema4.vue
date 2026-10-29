@@ -22,7 +22,7 @@
               .col-md-2.mb-4
                 img.tema4-icono.d-none.d-lg-block(src="@/assets/curso/temas/t4/img3.svg" alt="")
               .col-md-12
-                p El seguimiento permite identificar variaciones o desviaciones que puedan estar relacionadas con cambios en la población, la red de prestadores, la cobertura, las condiciones de salud o situaciones que afecten la prestación de los servicios. El material de referencia señala, entre otros aspectos, la necesidad de considerar cambios en la población, eventos de fuerza mayor, modificaciones en la red de proveedores, cobertura y comportamiento de la morbilidad.
+                p El seguimiento permite identificar variaciones o desviaciones que puedan estar relacionadas con cambios en la población, la red de prestadores, la cobertura, las condiciones de salud o situaciones que afecten la prestación de los servicios. Entre los factores que pueden incidir en estas variaciones se encuentran los eventos de fuerza mayor, las modificaciones en la red de prestadores, los cambios en la cobertura y las variaciones en el comportamiento de la morbilidad.
                 p.mb-0 A partir de los resultados del seguimiento pueden establecerse ajustes en las tarifas, la planificación de los servicios, las proyecciones y los elementos relacionados con la gestión del riesgo. Estos ajustes deben sustentarse en la información obtenida durante la ejecución y conservar la trazabilidad de las modificaciones realizadas.
 
     p.mb-0 El seguimiento también permite establecer indicadores y revisar periódicamente el cumplimiento de las proyecciones. Cuando se identifican resultados que requieren intervención, estos pueden dar lugar a acciones de mejora y a la actualización de la nota técnica, especialmente cuando se presentan modificaciones relevantes en las condiciones inicialmente consideradas.
@@ -49,7 +49,7 @@
       .col-lg-4.d-none.d-lg-block
         figure
           img(src="@/assets/curso/temas/t4/img4.png" alt="")
-    .row.justify-content-center.align-items-center.mb-4
+    .row.justify-content-center.align-items-center.mb-3
       .col-10
         .tema4-bordes-color.py-4.mb-4
           .row.align-items-center
@@ -73,11 +73,11 @@
               p.mb-0 En este caso, se presenta una utilización 10 % superior a la proyectada.
     .row.justify-content-center.align-items-center.mb-4
       .col-10
-        .row.align-items-center.mb-4
-          .col-md-2.mb-3.mb-md-0
+        .row.mb-4
+          .col-lg-1.mb-3.mb-md-0
             figure
               img.tema4-icono(src="@/assets/curso/temas/t4/img6.svg" alt="")
-          .col-md-10
+          .col-lg-11
             p.mb-0 El análisis no debe limitarse a identificar la diferencia numérica. También debe considerar las condiciones que pueden explicar la variación, como cambios en la población, modificaciones en la red de prestadores, cobertura, comportamiento de la morbilidad o situaciones que afecten la prestación de los servicios.
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mb-4
@@ -93,41 +93,41 @@
       h2 4.2 Ajustes de tarifas y planificación de servicios
 
     p.mb-4 Los ajustes de tarifas y de la planificación de servicios se realizan cuando el seguimiento de la ejecución identifica variaciones que afectan las condiciones consideradas inicialmente en la nota técnica. Estos ajustes deben sustentarse en información actualizada y en los resultados obtenidos durante el seguimiento, de manera que las proyecciones mantengan correspondencia con el comportamiento observado.
+    .BGF05.px-5
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-1.mb-3.mb-md-0
+          figure
+            img.tema4-icono(src="@/assets/curso/temas/t4/img8.svg" alt="")
+        .col-md-9
+          p.mb-0 En relación con las tarifas, la revisión puede considerar cambios en los valores de referencia, en los costos asociados a la prestación o en las condiciones económicas establecidas en el acuerdo. Cuando se identifica una diferencia entre los valores proyectados y los resultados observados, es necesario analizar su causa y determinar si corresponde actualizar los valores utilizados en la nota técnica.
 
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-1.mb-3.mb-md-0
-        figure
-          img.tema4-icono(src="@/assets/curso/temas/t4/img8.svg" alt="")
-      .col-md-9
-        p.mb-0 En relación con las tarifas, la revisión puede considerar cambios en los valores de referencia, en los costos asociados a la prestación o en las condiciones económicas establecidas en el acuerdo. Cuando se identifica una diferencia entre los valores proyectados y los resultados observados, es necesario analizar su causa y determinar si corresponde actualizar los valores utilizados en la nota técnica.
-
-    .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.mb-4.mb-lg-0
-        figure.h-100
-          img.tema4-apertura__imagen(src="@/assets/curso/temas/t4/img9.png" alt="")
-      .col-lg-6
-        p La planificación de servicios, por su parte, puede requerir ajustes cuando se presentan modificaciones en variables como:
-        ul.lista-ul--color.mb-4
-          li
-            i.fas.fa-file-lines
-            span La población objeto o población susceptible.
-          li
-            i.fas.fa-file-lines
-            span Las frecuencias de utilización.
-          li
-            i.fas.fa-file-lines
-            span La cantidad de servicios y tecnologías requeridos.
-          li
-            i.fas.fa-file-lines
-            span La red de prestadores disponible.
-          li
-            i.fas.fa-file-lines
-            span La cobertura de los servicios.
-          li
-            i.fas.fa-file-lines
-            span El comportamiento de las condiciones de salud de la población.
-        .cajon.color-primario.p-4
-          p.mb-0 El ajuste debe mantener la relación entre población, servicios, frecuencias, cantidades, tarifas y valores proyectados. De esta manera, cualquier modificación realizada en uno de estos elementos debe analizarse frente a los demás componentes para conservar la coherencia de la nota técnica.
+      .row.justify-content-center.align-items-center.mb-4
+        .col-lg-4.mb-4.mb-lg-0
+          figure.h-100
+            img.tema4-apertura__imagen(src="@/assets/curso/temas/t4/img9.png" alt="")
+        .col-lg-6
+          p La planificación de servicios, por su parte, puede requerir ajustes cuando se presentan modificaciones en variables como:
+          ul.lista-ul--color.mb-4
+            li
+              i.fas.fa-file-lines
+              span La población objeto o población susceptible.
+            li
+              i.fas.fa-file-lines
+              span Las frecuencias de utilización.
+            li
+              i.fas.fa-file-lines
+              span La cantidad de servicios y tecnologías requeridos.
+            li
+              i.fas.fa-file-lines
+              span La red de prestadores disponible.
+            li
+              i.fas.fa-file-lines
+              span La cobertura de los servicios.
+            li
+              i.fas.fa-file-lines
+              span El comportamiento de las condiciones de salud de la población.
+          .cajon.color-primario.p-4
+            p.mb-0 El ajuste debe mantener la relación entre población, servicios, frecuencias, cantidades, tarifas y valores proyectados. De esta manera, cualquier modificación realizada en uno de estos elementos debe analizarse frente a los demás componentes para conservar la coherencia de la nota técnica.
 
     p.mb-0 Los cambios identificados durante el seguimiento deben quedar documentados, indicando la situación que los originó, el elemento modificado y el soporte utilizado. Esta trazabilidad facilita la revisión posterior y permite actualizar la nota técnica cuando las condiciones del acuerdo de voluntades así lo requieran.
 
@@ -185,6 +185,10 @@
       span Indicadores para el seguimiento de la ejecución de la nota técnica
     .tabla-a.color-acento-contenido.tema4-tabla.mb-4
       table
+        colgroup
+          col(style="width: 25%")
+          col(style="width: 50%")
+          col(style="width: 25%")
         thead
           tr
             th Indicador

@@ -18,10 +18,10 @@
       .col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p.mb-0 En este componente se abordan los elementos necesarios para elaborar, revisar, validar, ajustar y evaluar una nota técnica, a partir de la organización y análisis de la información disponible. Se desarrollan aspectos relacionados con la identificación y codificación de servicios, los cálculos e indicadores, la estimación de costos, la consideración de los riesgos y la integración de la información según la modalidad de contratación.
-        .row.align-items-center
+        .row
           .col-lg-2.d-none.d-lg-block
             img.introduccion__icono(src="@/assets/curso/temas/intro/img3.svg" alt="")
-          .col-lg-10
+          .col-lg-10.p-0
             p.mb-0 Asimismo, se estudian los procesos de validación técnica, jurídica y financiera, junto con el seguimiento de resultados, la identificación de desviaciones y hallazgos, y la formulación de acciones de mejora. De esta manera, se fortalecen los elementos requeridos para mantener una nota técnica coherente con las condiciones del acuerdo de voluntades y susceptible de actualización de acuerdo con los resultados de su seguimiento.
 
     p.mb-4 Para complementar la comprensión de los temas abordados, se recomienda acceder al siguiente video:

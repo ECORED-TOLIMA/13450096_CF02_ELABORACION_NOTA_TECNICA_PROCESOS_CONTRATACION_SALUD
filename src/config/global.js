@@ -231,7 +231,7 @@ export default {
     {
       termino: 'Desviación',
       significado:
-        'Diferencia entre el valor proyectado y el valor observado durante la ejecución de los servicios o tecnologías incluidos en la nota técnica.',
+        'diferencia entre el valor observado y el valor proyectado durante la ejecución de los servicios o tecnologías incluidos en la nota técnica.',
     },
     {
       termino: 'Frecuencia de uso',

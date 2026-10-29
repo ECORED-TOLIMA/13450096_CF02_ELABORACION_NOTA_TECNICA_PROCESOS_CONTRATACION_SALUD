@@ -9,11 +9,11 @@
 
     .row.align-items-stretch.mb-4
       .col-lg-8.mb-4.mb-lg-0
-        .row.align-items-center.mb-4
-          .col-md-2.mb-3.mb-md-0
+        .row.mb-4
+          .col-lg-2.mb-3.mb-md-0
             figure
               img.tema5-icono(src="@/assets/curso/temas/t5/img1.svg" alt="")
-          .col-md-10
+          .col-lg-10.p-0
             p.mb-0 La evaluación de la nota técnica permite determinar el comportamiento de las proyecciones realizadas frente a los resultados obtenidos durante la ejecución del acuerdo de voluntades. Este proceso considera la información recopilada mediante el seguimiento y los indicadores de ejecución, con el propósito de identificar hallazgos, desviaciones y situaciones que requieran intervención o ajuste.
         p.mb-4 A partir de los resultados de la evaluación se pueden establecer acciones orientadas a corregir las situaciones identificadas y fortalecer los procesos relacionados con la planeación, ejecución y seguimiento de los servicios y tecnologías en salud. Las acciones deben quedar documentadas, con la definición de responsables y fechas para su cumplimiento.
         .tema5-apertura__destacado.p-4
@@ -253,7 +253,7 @@
         figure.h-100
           img.tema5-panel__imagen(src="@/assets/curso/temas/t5/img13.png" alt="")
       .col-lg-6
-        .row.align-items-center.mb-4
+        .row.mb-4
           .col-md-2.mb-3.mb-md-0
             figure
               img.tema5-icono(src="@/assets/curso/temas/t5/img14.svg" alt="")
